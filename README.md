@@ -104,7 +104,7 @@ You write the pure data or your template in your new Model class. Develop a GUI 
 [Database Models](Database%20Models)
 
 ## Author
-[Ramiz]
+[Kazi Afroz Alam]
 
 ## Common Errors
 > You may get into some issue during the run related to the JavaFx modeules, please follow the following steps to configure JavaFx runtime path
