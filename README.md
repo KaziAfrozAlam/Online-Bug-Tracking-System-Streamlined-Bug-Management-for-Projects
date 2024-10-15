@@ -1,4 +1,4 @@
-# Bug-Tracker
+# Project Name : Online Bug Tracking System: Streamlined Bug Management for Projects
 The Online Bug Tracking System is a software solution designed to enhance collaboration between project managers and developers. It provides a professional graphical user interface (GUI) and a robust database to track and manage bugs within each project efficiently. This system helps organize projects by documenting each bug, tracking its status, and assigning it to relevant team members. By streamlining the bug-tracking process, it ensures effective communication, timely resolutions, and improved project management, ultimately contributing to the overall success of software development efforts.
 
 ## Table of Content
