@@ -126,7 +126,7 @@ Add the following setting in the launch.json file
 >          "name": "LaunchGUI", \
 >            "request": "launch", \
 >            "mainClass": "GUIStart", \
->            "vmArgs": "--module-path \"/home/asif/workArea/java_work/javafx-sdk-21.0.2/lib\"   --add-modules=javafx.controls,javafx.fxml" \
+>            "vmArgs": "--module-path \"/home/ramiz/workArea/java_work/javafx-sdk-21.0.2/lib\"   --add-modules=javafx.controls,javafx.fxml" \
 >       } \
 >    ] 
 
